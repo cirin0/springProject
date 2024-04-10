@@ -48,17 +48,4 @@ This project aims to create a comprehensive telephone directory for university m
 - Spring Boot
 - Spring Security
 - Spring Data JPA
-- MySQL or PostgreSQL (database)
-
-**## Getting Started**
-
-1. Clone this repository.
-2. Ensure necessary tools are installed (Java, Maven or Gradle).
-3. Configure a database connection in `application.properties`.
-4. Run the application using Maven or Gradle commands.
-
-**## Contact**
-
-**[Your Name]** - [Your Email]
-
-**Feel free to contribute!**
+- PostgreSQL
