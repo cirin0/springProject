@@ -1,10 +1,10 @@
- **# University Telephone Directory (Spring Project)**
+# University Telephone Directory (Spring Project)
 
-**## Overview**
+## Overview
 
 This project aims to create a comprehensive telephone directory for university members using Spring technologies. It will enable users to manage their contact information, search for contacts, and access essential directory services.
 
-**## Functional Requirements**
+## Functional Requirements
 
 * **User Management:**
   - Registration for students, faculty, and staff with basic information (name, email).
@@ -24,7 +24,7 @@ This project aims to create a comprehensive telephone directory for university m
   - Option to export search results in CSV format.
   - Auditing of contact information (track changes made by admins).
 
-**## REST API Endpoints**
+## REST API Endpoints
 
 * **User Management:**
   - POST /users
@@ -42,10 +42,15 @@ This project aims to create a comprehensive telephone directory for university m
   - GET /contacts/export (Admin only)
   - GET /contacts/audit (Admin only)
 
-**## Technologies Used**
+## Technologies Used
 
 - Java
 - Spring Boot
 - Spring Security
 - Spring Data JPA
 - PostgreSQL
+
+
+## ER-diagram
+
+![ER-diagram](https://github.com/cirin0/courseProject/blob/main/ER%20diagram.png)
